@@ -1,2 +1,5 @@
 # hello-world
-Privacidad, seguridad, descodificaciones
+Privacidad, seguridad, descodificaciones.
+soy Enprincipiante
+Enquiero descodificararchivosytenermayorseguridadenmisdocumentos
+Enquitar losvirusdemiandroid
